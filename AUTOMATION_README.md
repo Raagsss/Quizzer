@@ -200,7 +200,7 @@ git push -u origin main
 ### 6. Share Repository Link
 Your repository will be available at:
 ```
-https://github.com/YOUR_USERNAME/quiz-automation
+https://github.com/raagsss/Quizzer
 ```
 
 ## 🎥 Screen Recording Guide

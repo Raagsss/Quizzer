@@ -139,7 +139,3 @@ This application is designed to be testable with Selenium WebDriver. Key element
 
 This project is open source and available for educational purposes.
 
-## Support
-
-For issues or questions, please refer to the code comments or modify as needed for your requirements.
-
